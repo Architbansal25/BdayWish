@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'July 21, 2020',
-  name: 'Radhika Gupta'
+  birthdate: 'September 28, 2020',
+  name: 'Shivani uff bano'
 };
 
 function hideEverything() {
