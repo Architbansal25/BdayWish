@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'October 1, 2020',
-  name: 'kanishka thakur'
+  birthdate: 'November 19, 2020',
+  name: 'Agraj mera bhai'
 };
 
 function hideEverything() {
