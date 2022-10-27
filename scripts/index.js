@@ -48,7 +48,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['WISHING YOU A DAY THAT IS SPECIAL AS YOU ARE', 'HAPPY BIRTHDAY!', config.name],
+      strings: ['WISHING YOU A DAY THAT IS SPECIAL', 'AS YOU ARE','HAPPY BIRTHDAY!', config.name],
       charSize: 30,
       charSpacing: 35,
       lineHeight: 40,
